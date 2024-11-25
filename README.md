@@ -11,7 +11,7 @@ This is a simple **Tic Tac Toe** game implemented using Python and Pygame. The g
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Pygame library
 
 Install Pygame using pip if it’s not already installed:
